@@ -1,0 +1,84 @@
+    {
+        "productos": [
+            {
+                "id": 1,
+                "nombre": "Fugazzeta",
+                "precio": 12500,
+                "fecha": "23/05/2026",
+                "imagen": "img/fugazzeta_cleanup.jpg",
+                "descripcion": "Deliciosa fugazzeta con cebolla y muzzarella"
+            },
+            {
+                "id": 2,
+                "nombre": "Pizza Cuatro Quesos",
+                "precio": 19000,
+                "fecha": "23/05/2026",
+                "imagen": "img/pizza-4-quesos.jpg",
+                "descripcion": "Combinación perfecta de cuatro quesos premium"
+            },
+            {
+                "id": 3,
+                "nombre": "Pizza de Albahaca",
+                "precio": 15000,
+                "fecha": "23/05/2026",
+                "imagen": "img/pizza-de-albahaca.jpg",
+                "descripcion": "Pizza fresca con albahaca aromática"
+            },
+            {
+                "id": 4,
+                "nombre": "Pizza Muzzarella",
+                "precio": 11000,
+                "fecha": "23/05/2026",
+                "imagen": "img/pizza-muzzarella.jpg",
+                "descripcion": "La clásica pizza muzzarella de siempre"
+            },
+            {
+                "id": 5,
+                "nombre": "Pizza Napolitana",
+                "precio": 13000,
+                "fecha": "23/05/2026",
+                "imagen": "img/pizza-napolitana.jpg",
+                "descripcion": "Pizza napolitana con tomate, muzzarella y ajo"
+            },
+            {
+                "id": 6,
+                "nombre": "Pizza de Rúcula y Jamon Crudo",
+                "precio": 18500,
+                "fecha": "23/05/2026",
+                "imagen": "img/pizza-rucula-y-jamon-crudo.jpg",
+                "descripcion": "Exquisita combinación de rúcula fresca y jamón crudo"
+            },
+            {
+                "id": 7,
+                "nombre": "Pizza Especial de Jamón",
+                "precio": 20000,
+                "fecha": "08/03/2026",
+                "imagen": "img/pizza-especial-de-jamon.jpg",
+                "descripcion": "Pizza especial con abundante jamón"
+            },
+            {
+                "id": 8,
+                "nombre": "Pizza de provolone",
+                "precio": 27000,
+                "fecha": "26/05/2026",
+                "imagen": "img/pizza-de-provolone.jpg",
+                "descripcion": "Nueva pizza para que la disfruten todos"
+            },
+            {
+                "id": 9,
+                "nombre": "Pizza de panceta",
+                "precio": 34000,
+                "fecha": "15/06/2026",
+                "imagen": "img/pizza-de-panceta.jpg",
+                "descripcion": "Una combinación irresistible con el sabor intenso y ahumado de la panceta. "
+            },
+              {
+                "id": 9,
+                "nombre": "Pizza de los campeones",
+                "precio": 28000,
+                "fecha": "15/06/2026",
+                "imagen": "img/pizza-mundial.jpg",
+                "descripcion": "Hecha para hinchas, disfrutada por campeones."
+            }
+        ]
+    }

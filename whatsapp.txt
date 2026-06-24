@@ -1,0 +1,15 @@
+Actúa como un desarrollador web experto. Necesito agregar un botón flotante de WhatsApp en este sitio web para atención al cliente. 
+
+Por favor, proporcióname el código HTML y CSS con las siguientes especificaciones:
+1. El botón debe estar fijo en la esquina inferior derecha de la pantalla.
+2. Debe utilizar el ícono de WhatsApp de FontAwesome (asegúrate de incluir la sintaxis correcta del ícono).
+3. El diseño CSS debe ser atractivo: un círculo verde característico de WhatsApp, con sombra para que resalte, un efecto "hover" suave al pasar el cursor, y que se mantenga por encima de otros elementos de la página (z-index alto).
+4. El enlace debe usar la API oficial de WhatsApp configurado para el número 5491162345678 y que incluya un mensaje personalizado predeterminado, por ejemplo: "Hola, me gustaría hacer el siguiente pedido".
+5. Que el enlace se abra en una pestaña nueva.
+
+Una vez finalizada esta tarea quiero un resumen de todo lo que hiciste.
+
+
+
+
+
